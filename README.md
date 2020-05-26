@@ -10,7 +10,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     <br />
     <br />
-    <img src="assets/images/screenshot.png" width="100%"/>
+    <img src="assets/images/SS.png" width="100%"/>
   </p>
 </p>
 
