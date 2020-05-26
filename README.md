@@ -7,7 +7,7 @@
     Media and Live TV Server by DOT Internet
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://rafathossain96.github.io/DFlix-Entertainment-Landing-Page/">View Demo</a>
     <br />
     <br />
     <img src="assets/images/SS.png" width="100%"/>
